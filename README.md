@@ -61,9 +61,3 @@ In this last notebook, we succesfully implemented a Bert model called Keras from
 |balanced_recall|0\.3441|
 |balanced_precision|0\.5924|
 |balanced_f1_score|0\.4306|
-
-
-
-## [5. Link to the explanatory video (click to redirect)](https://youtu.be/lXTQ9TwFk60)
-
-
